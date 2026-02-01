@@ -22,7 +22,7 @@
     box-shadow: 0 8px  18px
   rgba(0,0,0,0,);
   }
-  ,register{background:#9fc7be;}
+  register{background:#9fc7be;}
   .contact{background:#cdb6a1;}
   h2{text-align:center;}
   input,textarea{
@@ -69,5 +69,6 @@
    </body>
 </html>
                  
+
 
   
